@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java"/>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/mpesajars/mpesajars/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/mpesajars/mpesajars/commons-beanutils-1.7.jar"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/mpesajars/mpesajars/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/mpesajars/mpesajars/commons-collections.jar"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/mpesajars/mpesajars/commons-lang.jar"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/mpesajars/mpesajars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/mpesajars/mpesajars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/mpesajars/mpesajars/ezmorph.jar"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/mpesajars/mpesajars/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/mpesajars/mpesajars/httpclient-4.0.jar"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/mpesajars/mpesajars/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/mpesajars/mpesajars/javabase64-1.3.1.jar"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/mpesajars/mpesajars/java-json.jar"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/mpesajars/mpesajars/jersey-core-1.8.jar"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/mpesajars/mpesajars/jersey-server-1.8.jar"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/mpesajars/mpesajars/json-lib-2.2.2-jdk15.jar"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/mpesajars/mpesajars/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/mpesajars/mpesajars/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/mpesajars/mpesajars/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/mpesajars/mpesajars/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/home/ashokreddy/ashok/javax.ws.rs.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

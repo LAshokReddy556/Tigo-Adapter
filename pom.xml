@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.hugo.common</groupId>
-	<artifactId>RESTfulExample</artifactId>
+	<artifactId>tigo-adapter</artifactId>
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>RESTfulExample Maven Webapp</name>
+	<name>tigo-adapter Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
 	<repositories>
@@ -46,7 +46,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>RESTfulExample</finalName>
+		<finalName>tigo-adapter</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
